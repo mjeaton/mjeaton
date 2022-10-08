@@ -8,8 +8,12 @@
 - 🌱 I’m currently learning more about Azure in hopes of passing either AZ204 or AZ305 sometime before the end of 2022.
 - 📫 How to reach me: [@mjeaton on Twitter](https://twitter.com/mjeaton)
 
-Here are some posts I've written:
+Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
 - [AZ-900 / Azure Fundamentals - My approach ](https://samestuffdifferentday.net/2022/09/08/az-900-azure-fundamentals-my-approach/)
 - [How to have a better interview](https://samestuffdifferentday.net/2022/01/26/interviewing-tips/)
 - [Sending a meeting a request? Think before you send.](https://samestuffdifferentday.net/2022/08/03/sending-a-meeting-a-request-think-before-you-send/)
 - [Leadership](https://samestuffdifferentday.net/2018/12/06/leadership/)
+
+Here are some things I've written on [Medium](https://medium.com/@mjeaton):
+- [Learning about writing](https://medium.com/@mjeaton/learning-about-writing-8711a4607cde)
+- [Focus](https://medium.com/@mjeaton/focus-d17a90b43bf9)
