@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on tools to automate my weekly link post for my blog as well as more articles.
 - 🌱 I’m currently learning more about Azure in hopes of passing either AZ204 or AZ305 sometime before the end of 2022.
 - 🌱 I'm currently digging through a bunch of old backups I found, some containing code I wrote through the 90s!
+- 🔭 I publish a [weekly blog post of interesting links](https://samestuffdifferentday.net/links) I find.
 
 Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
 - [AZ-900 / Azure Fundamentals - My approach ](https://samestuffdifferentday.net/2022/09/08/az-900-azure-fundamentals-my-approach/)
