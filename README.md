@@ -19,5 +19,3 @@ Here are some posts I've written at [my blog](https://samestuffdifferentday.net)
 Here are some things I've written on [Medium](https://medium.com/@mjeaton):
 - [Learning about writing](https://medium.com/@mjeaton/learning-about-writing-8711a4607cde)
 - [Focus](https://medium.com/@mjeaton/focus-d17a90b43bf9)
-
-<a rel="me" href="https://our.devchatter.com/@mjeaton">Mastodon</a>
