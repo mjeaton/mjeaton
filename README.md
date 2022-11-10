@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning more about Azure in hopes of passing either AZ204 or AZ305 sometime before the end of 2022.
 - 🌱 I'm currently digging through a bunch of old backups I found, some containing code I wrote through the 90s!
 - 🔭 I publish a [weekly blog post of interesting links](https://samestuffdifferentday.net/links) I find.
+- 🔭 I publish a [mostly daily series of Things I Learned](https://samestuffdifferentday.net/til).
 
 Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
 - [AZ-900 / Azure Fundamentals - My approach ](https://samestuffdifferentday.net/2022/09/08/az-900-azure-fundamentals-my-approach/)
