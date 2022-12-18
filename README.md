@@ -12,6 +12,7 @@
 - 🔭 I publish a [mostly daily series of Things I Learned](https://samestuffdifferentday.net/til).
 
 Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
+- [My 2022 C# Advent Post: 12 Days of Christmas in C#](https://samestuffdifferentday.net/2022/12/16/12-days-of-christmas/)
 - [My 2022 Dotnet Advent Post: Karvonen Heart Rate with C# and Spectre.Console](https://samestuffdifferentday.net/2022/12/10/karvonen-heart-rate/)
 - [AZ-900 / Azure Fundamentals - My approach ](https://samestuffdifferentday.net/2022/09/08/az-900-azure-fundamentals-my-approach/)
 - [How to have a better interview](https://samestuffdifferentday.net/2022/01/26/interviewing-tips/)
