@@ -10,6 +10,7 @@
 - 🌱 I'm currently digging through a bunch of old backups I found, some containing code I wrote through the 90s!
 - 🔭 I publish a [weekly blog post of interesting links](https://samestuffdifferentday.net/links) I find.
 - 🔭 I publish a [series of Things I Learned](https://samestuffdifferentday.net/til).
+- 🔭 Attempting to curate a [list of people who create solid leadership content](https://github.com/mjeaton/leadership-content-creators).
 
 Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
 - [Books of 2022](https://samestuffdifferentday.net/2023/01/03/books-of-2022/)
