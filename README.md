@@ -1,3 +1,7 @@
+I am a software developer with almost 30 years of professional experience, mostly in the Microsoft ecosystem. I was a tech conference speaker for many years which led to the Microsoft MVP award from 2009-2015. I am an avid reader, music lover, and drinker of good bourbon.
+
+I am currently working as a Principal Consultant helping clients build great software and working to change the perception of the IT profession. 
+
 [![Twitter Badge](https://img.shields.io/badge/-@mjeaton-blue?logo=twitter&logoColor=white&link=https://twitter.com/mjeaton)](https://twitter.com/mjeaton)
 [![Mastodon Badge](https://img.shields.io/badge/~mjeaton-blue?logo=mastodon&logoColor=white&link=https://our.devchatter.com/web/@mjeaton)](https://our.devchatter.com/web/@mjeaton)
 [![Linkedin Badge](https://img.shields.io/badge/-Michael%20Eaton-blue?logo=linkedIn)](https://www.linkedin.com/in/mjeaton/)
