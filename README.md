@@ -16,6 +16,7 @@ I am currently working as a Principal Consultant helping clients build great sof
 - 🔭 I publish a [series of Things I Learned](https://samestuffdifferentday.net/til).
 - 🔭 Attempting to curate a [list of people who create solid leadership content](https://github.com/mjeaton/leadership-content-creators).
 - 🔭 Curating a [list of technical user groups and conferences in Ohio](https://github.com/mjeaton/ohio-tech).
+- 🔭 Curating a [list of job search and interview prep resources](https://github.com/mjeaton/job-search-resources)
 
 Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
 - [Books of 2022](https://samestuffdifferentday.net/2023/01/03/books-of-2022/)
