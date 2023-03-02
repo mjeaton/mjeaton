@@ -29,5 +29,6 @@ Here are some posts I've written at [my blog](https://samestuffdifferentday.net)
 - [Leadership](https://samestuffdifferentday.net/2018/12/06/leadership/)
 
 Here are some things I've written on [Medium](https://medium.com/@mjeaton):
+- [Dear recruiters, please stop calling us rock stars](https://medium.com/@mjeaton/dear-recruiters-please-stop-calling-us-rock-stars-16b4983b374c)
 - [Learning about writing](https://medium.com/@mjeaton/learning-about-writing-8711a4607cde)
 - [Focus](https://medium.com/@mjeaton/focus-d17a90b43bf9)
