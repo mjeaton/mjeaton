@@ -10,13 +10,15 @@ I am currently working as a Principal Consultant helping clients build great sof
 
 
 - 🔭 I’m currently working on tools to automate my weekly link post for my blog and trying to write more articles.
-- 🌱 I’m currently learning more about Azure in hopes of passing either AZ104 or AZ204 sometime in 2024.
-- 🌱 I'm currently digging through a bunch of old backups I found, some containing code I wrote through the 90s!
+- 🌱 I’m currently learning more about Azure in hopes of passing either AZ104 sometime in 2025.
 - 🔭 I publish a [weekly blog post of interesting links](https://samestuffdifferentday.net/links) I find.
 - 🔭 I publish a [series of Things I Learned](https://samestuffdifferentday.net/til).
 - 🔭 Attempting to curate a [list of people who create solid leadership content](https://github.com/mjeaton/leadership-content-creators).
 - 🔭 Curating a [list of technical user groups and conferences in Ohio](https://github.com/mjeaton/ohio-tech).
 - 🔭 Curating a [list of job search and interview prep resources](https://github.com/mjeaton/job-search-resources)
+
+Here is a list of podcasts I've been interviewed on as well as conference / meetup session recordings
+- [Podcasts and Recordings](https://samestuffdifferentday.net/recordings)
 
 Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
 - [Developer Standup: Rethinking the Three Questions](https://samestuffdifferentday.net/2023/02/14/three-questions/)
