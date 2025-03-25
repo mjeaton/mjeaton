@@ -21,6 +21,7 @@ Here is a list of podcasts I've been interviewed on as well as conference / meet
 - [Podcasts and Recordings](https://samestuffdifferentday.net/recordings)
 
 Here are some posts I've written at [my blog](https://samestuffdifferentday.net):
+- [My New Favorite Question for the Daily Standup](https://samestuffdifferentday.net/2025/03/24/standup-revisited/)
 - [Developer Standup: Rethinking the Three Questions](https://samestuffdifferentday.net/2023/02/14/three-questions/)
 - [Books of 2022](https://samestuffdifferentday.net/2023/01/03/books-of-2022/)
 - [My 2022 C# Advent Post: 12 Days of Christmas in C#](https://samestuffdifferentday.net/2022/12/16/12-days-of-christmas/)
