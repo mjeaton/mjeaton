@@ -1,4 +1,4 @@
-I am a software developer with almost 30 years of professional experience, mostly in the Microsoft ecosystem. I was a tech conference speaker for many years which led to the Microsoft MVP award from 2009-2015. I am an avid reader, music lover, and drinker of good bourbon.
+I am a software developer with 30 years of professional experience, mostly in the Microsoft ecosystem. I was a tech conference speaker for many years which led to the Microsoft MVP award from 2009-2015. I am an avid reader, music lover, and drinker of good bourbon.
 
 I am currently working as a Principal Consultant helping clients build great software and working to change the perception of the IT profession. 
 
